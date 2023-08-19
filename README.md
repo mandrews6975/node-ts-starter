@@ -1,9 +1,9 @@
-<p style="text-align: center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" height="75" style="margin-right: 16px"/>
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js logo" height="75"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript logo" height="75"/>
 </p>
 
-<h1 style="text-align: center">node-ts-starter</h1>
+<h1 align="center">node-ts-starter</h1>
 
 A simple starter template for working with TypeScript and Node.js.
 This is not intended to be robust, nor universally suitable for all
