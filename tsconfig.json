@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "./build"
+  },
+  "include": ["src/**/*"],
+  "extends": "@tsconfig/node20/tsconfig.json"
+}

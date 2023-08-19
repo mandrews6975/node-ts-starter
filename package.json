@@ -1,0 +1,17 @@
+{
+  "name": "node-ts-starter",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "author": "Michael Andrews",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "start": "node build/index.js"
+  },
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.1",
+    "@types/node": "^20.5.1",
+    "typescript": "^5.1.6"
+  }
+}
